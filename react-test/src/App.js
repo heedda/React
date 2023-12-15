@@ -1,11 +1,11 @@
 import React from "react";
-import MainPage from "./page/MainPage";
+import EventPratice from "./EventPratice";
 
 const App = () => {
   return (
-   <>
-   <MainPage/>
-   </>
+    <>
+      <EventPratice />
+    </>
   );
 };
 
